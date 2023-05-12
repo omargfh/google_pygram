@@ -1,0 +1,9 @@
+LICENSE
+README.md
+setup.py
+google-pygram/src/google_pygram.py
+google-pygram/src/google_pygram.egg-info/PKG-INFO
+google-pygram/src/google_pygram.egg-info/SOURCES.txt
+google-pygram/src/google_pygram.egg-info/dependency_links.txt
+google-pygram/src/google_pygram.egg-info/requires.txt
+google-pygram/src/google_pygram.egg-info/top_level.txt
